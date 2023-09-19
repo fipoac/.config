@@ -1,7 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:fipoac/nvim.git
-
 [submodule "helix"]
 	path = helix
 	url = git@github.com:fipoac/helix.git
